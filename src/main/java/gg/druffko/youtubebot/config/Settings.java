@@ -24,9 +24,9 @@ public class Settings {
         }
 
         discordToken = botProperties.getProperty("discordToken");
-        dcytChannel = botProperties.getProperty("dcytChannel");
+        dcytChannel = botProperties.getProperty("GHOST MODS");
         postFile = botProperties.getProperty("postFile");
         ytToken = botProperties.getProperty("ytToken");
-        channelId = botProperties.getProperty("channelId");
+        channelId = botProperties.getProperty("channelid");
     }
 }
